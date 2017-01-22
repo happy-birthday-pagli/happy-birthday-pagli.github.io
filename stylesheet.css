@@ -12,10 +12,10 @@ body {
     /*background-size: 100%;*/
 	opacity: 0.5;
 	filter:alpha(opacity=50);
-	-moz-background-size: cover;
+/*	-moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: cover;*/
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
