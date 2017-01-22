@@ -1,6 +1,8 @@
 body {
 	/*background-color: #FFDAB9;	*/
-	background-color: #000;
+	/*background-color: #000;*/
+	background-image: url('zrb.jpg');
+	opacity: 0.8;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
